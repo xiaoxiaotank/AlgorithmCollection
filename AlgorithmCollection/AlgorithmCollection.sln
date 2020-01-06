@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tree", "Tree", "{7979B722-3A06-4B27-A948-C8DEDA83EC8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegralRanking", "IntegralRanking\IntegralRanking.csproj", "{A3C358DC-87AE-460F-8DF9-456D44A93EF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C358DC-87AE-460F-8DF9-456D44A93EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C358DC-87AE-460F-8DF9-456D44A93EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C358DC-87AE-460F-8DF9-456D44A93EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C358DC-87AE-460F-8DF9-456D44A93EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3C358DC-87AE-460F-8DF9-456D44A93EF4} = {7979B722-3A06-4B27-A948-C8DEDA83EC8E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECEB809F-EF08-4B3D-AAD1-881F0FDEEE2A}
+	EndGlobalSection
+EndGlobal
